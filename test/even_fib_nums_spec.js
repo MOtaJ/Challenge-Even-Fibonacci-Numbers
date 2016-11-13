@@ -20,7 +20,7 @@ describe( 'Sum of even numbers in the Fibonnacci sequence', function() {
     var sum = fibonnaciNums.sumFibs(4000000);
 
     // CHANGE THE VALUE OF 'X' to the correct number
-    sum.should.equal( 'X' );
+    sum.should.equal( 4613732 );
   });
 });
 
